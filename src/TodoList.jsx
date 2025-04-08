@@ -3,7 +3,7 @@ import React, { useState, useEffect } from "react";
 import axios from "axios";
 import "./App.css";
 
-const API_URL = "https://pit3-gh3n.onrender.com/api/"; 
+const API_URL = "https://pit3-axj5.onrender.com/api/tasks/";
 
 function App() {
   const [tasks, setTasks] = useState([]);
