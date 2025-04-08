@@ -85,7 +85,7 @@ DATABASES = {
     }
 }
 
-DATABASES["default"] = dj_database_url.parse("postgresql://todo_project_dlby_user:XTzMSN66MRIvOXJ8g7S1FenLX7i9O1IL@dpg-cvoig0juibrs73brqh70-a/todo_project_dlby")
+DATABASES["default"] = dj_database_url.parse("postgresql://todo_qgsf_user:TQzlamOwy3FmeNtoJvEBPamd0360JMKT@dpg-cvq8f63ipnbc73cmibeg-a/todo_qgsf")
 
 
 # Password validation
